@@ -1,0 +1,26 @@
+body{
+	background-color:blue;
+	text-align:center;
+}
+.a{
+	width: 100px;
+	height: 100px;
+	background-color:black;
+	color:white;
+	margin:50px;
+	display:inline-block;
+	transition: ease-in 1s;
+}
+.a:hover{
+	width: 200px;
+	height: 200px;
+	background-color:gray;
+	color:black;
+	margin:50px;
+	display:inline-block;
+	transition: ease-in 1s;
+}
+p{
+	margin-top:40%;
+}
+	
